@@ -5,10 +5,11 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:DailyPositivity"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="450" Width="805.405">
     <Grid Background="#FF1871C9">
         <Label Content="Daily Positivity" HorizontalAlignment="Left" Margin="276,34,0,0" VerticalAlignment="Top" Width="256" FontSize="36"/>
-        <Button Content="Click here for your daily dose!" HorizontalAlignment="Left" Margin="290,178,0,0" VerticalAlignment="Top" Width="220" Click="Button_Click" Height="77"/>
+        <Button Content="Click here for your daily dose!" HorizontalAlignment="Left" Margin="311,155,0,0" VerticalAlignment="Top" Width="164" Click="Button_Click" Height="80"/>
+        <Button Content="Chat" HorizontalAlignment="Left" Margin="311,270,0,0" VerticalAlignment="Top" Width="164" Height="80" Click="Button_Click_1"/>
 
     </Grid>
 </Window>
